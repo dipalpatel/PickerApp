@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ParentLayout" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+
+    <!--<com.inmobi.ads.InMobiBanner xmlns:ad="http://schemas.android.com/apk/res/android"-->
+    <!--android:id="@+id/bannerView"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--ad:placementId="1244"-->
+    <!--ad:refreshInteval="24"-->
+    <!--/>-->
+
+    <LinearLayout android:id="@+id/listNews" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:orientation="vertical" />
+
+    <EditText android:id="@+id/editText1" android:layout_width="400dp" android:layout_height="50dp"
+        android:background="#CCCCCC" android:ems="10" android:inputType="textPersonName">
+        <requestFocus />
+    </EditText>
+
+    <Button android:id="@+id/Load" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadBanner"
+        android:text="Load Banner Ad" />
+
+    <!--<Button-->
+    <!--android:id="@+id/clear"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="clear Config"-->
+    <!--android:onClick="clearConfig"/>-->
+
+</LinearLayout>
+

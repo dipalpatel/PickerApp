@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ParentLayout" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+
+    <com.inmobi.ads.InMobiBanner xmlns:bannerAd="http://schemas.android.com/apk/lib/com.inmobi.ads"
+        android:id="@+id/bannerView" android:layout_width="320dp" android:layout_height="50dp"
+        bannerAd:placementId="abc" bannerAd:refreshInterval="20" />
+
+    <!--<com.inmobi.ads.InMobiBanner xmlns:bannerAd1="http://schemas.android.com/apk/lib/com.inmobi.ads"-->
+    <!--android:id="@+id/bannerView1"-->
+    <!--android:layout_width="320dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--bannerAd1:placementId="16030001"-->
+    <!--bannerAd1:refreshInterval="30"-->
+    <!--/>-->
+
+    <!--<com.inmobi.ads.InMobiBanner xmlns:bannerAd="http://schemas.android.com/apk/lib/com.inmobi.ads"-->
+    <!--android:id="@+id/bannerView"-->
+    <!--android:layout_width="320dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--bannerAd:placementId="1201380001"-->
+    <!--bannerAd:refreshInterval="30"-->
+    <!--/>-->
+
+    <!--<com.inmobi.ads.InMobiBanner xmlns:bannerAd1="http://schemas.android.com/apk/lib/com.inmobi.ads"-->
+    <!--android:id="@+id/bannerView1"-->
+    <!--android:layout_width="320dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--bannerAd1:placementId="1201380001"-->
+    <!--bannerAd1:refreshInterval="30"-->
+    <!--/>-->
+
+    <!--<com.inmobi.ads.InMobiBanner xmlns:bannerAd2="http://schemas.android.com/apk/lib/com.inmobi.ads"-->
+    <!--android:id="@+id/bannerView2"-->
+    <!--android:layout_width="320dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--bannerAd2:placementId="16030001"-->
+    <!--bannerAd2:refreshInterval="30"-->
+    <!--/>-->
+
+    <!--<com.inmobi.ads.InMobiBanner xmlns:bannerAd3="http://schemas.android.com/apk/lib/com.inmobi.ads"-->
+    <!--android:id="@+id/bannerView3"-->
+    <!--android:layout_width="320dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--bannerAd3:placementId="16030001"-->
+    <!--bannerAd3:refreshInterval="30"-->
+    <!--/>-->
+
+    <Button android:id="@+id/Load" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadBanner"
+        android:text="Load Banner Ad" />
+
+    <!--<Button-->
+    <!--android:id="@+id/Load1"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Load Banner Ad"-->
+    <!--android:onClick="loadBanner1"/>-->
+
+</LinearLayout>
+

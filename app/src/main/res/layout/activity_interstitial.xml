@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical"
+    tools:context=".Interstitial">
+
+    <TextView android:id="@+id/textView1" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="@string/InterstitialAd"></TextView>
+
+    <!--<Button-->
+    <!--android:id="@+id/btnGetIntAd"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:onClick="onGetInAd"-->
+    <!--android:text="@string/getInstantPlay" >-->
+    <!--</Button>-->
+
+    <!--<Button-->
+    <!--android:id="@+id/btnShowIntAd"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:onClick="onShowInAd"-->
+    <!--android:text="@string/showInstantPlay" >-->
+    <!--</Button>-->
+
+    <Button android:id="@+id/btnGetIntAd1" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="onGetInAd1"
+        android:text="@string/getInterstitial"></Button>
+
+    <Button android:id="@+id/btnShowIntAd1" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="onShowInAd1"
+        android:text="@string/showInterstitial"></Button>
+
+    <EditText android:id="@+id/editText1" android:layout_width="400dp" android:layout_height="50dp"
+        android:background="#CCCCCC" android:ems="10" android:inputType="textPersonName">
+        <requestFocus />
+    </EditText>
+
+    <Button android:id="@+id/Load" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="load"
+        android:text="Load Interstitial Ad" />
+
+</LinearLayout>

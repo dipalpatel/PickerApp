@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ParentLayout" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical">
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dip"-->
+    <!--android:text="Server:"-->
+    <!--android:layout_marginBottom="5dp"-->
+    <!--/>-->
+
+    <!--<Spinner-->
+    <!--android:id="@+id/spinner1"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dip"-->
+    <!--android:layout_marginBottom="5dp" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dip"-->
+    <!--android:text="SlotId:"-->
+    <!--android:layout_marginBottom="5dp"-->
+    <!--/>-->
+
+    <!--<Spinner-->
+    <!--android:id="@+id/spinner2"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dip"-->
+    <!--android:layout_marginBottom="5dp" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dip"-->
+    <!--android:text="AdFlow:"-->
+    <!--android:layout_marginBottom="5dp"-->
+    <!--/>-->
+
+    <!--<Spinner-->
+    <!--android:id="@+id/spinner3"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dip"-->
+    <!--android:layout_marginBottom="5dp" />-->
+
+    <!--<Button-->
+    <!--android:id="@+id/btnSubmit"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Submit" />-->
+
+</LinearLayout>

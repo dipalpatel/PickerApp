@@ -1,0 +1,31 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical"
+        tools:context="com.test.kuluk.Native">
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="hello_world" />
+
+        <ListView android:id="@+id/listImage" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ListView>
+
+        <LinearLayout android:id="@+id/testImage" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:orientation="vertical" />
+
+        <Button android:id="@+id/Load" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/Load1" />
+
+        <Button android:id="@+id/Content" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/Content" />
+
+        <Button android:id="@+id/PubContent" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/PublisherContentImage" />
+
+        <Button android:id="@+id/Click" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/ClickBeacon" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ExpMatrixSlots">
+
+        <item>DI5007</item>
+        <item>213197362</item>
+        <item>*********Sprout+MraidSanity************</item>
+        <item>ExpImaiAll</item>
+        <item>512805036</item>
+        <item>ExpHtml5All</item>
+        <item>33384584</item>
+        <item>ExpUrlHtml5All</item>
+        <item>220354228</item>
+        <item>ResizeHtml5All</item>
+        <item>891761974</item>
+        <item>ExpImraidAll</item>
+        <item>261243554</item>
+        <item>ExpiMraidAudioVideo</item>
+        <item>729650270</item>
+        <item>ExpMraidAll</item>
+        <item>528503584</item>
+        <item>ExpUrlMraid</item>
+        <item>955255098</item>
+        <item>ExpSproutAll</item>
+        <item>343488688</item>
+        <item>ExpSproutMraid</item>
+        <item>151026630</item>
+        <item>RichBannerSprout</item>
+        <item>805866944</item>
+        <item>SproutClickToRich</item>
+        <item>328857782</item>
+        <item>LocationAccess</item>
+        <item>845743656</item>
+        <item>VideoRepositioning</item>
+        <item>872525706</item>
+    </string-array>
+
+    <string-array name="Exp2PMatrixSlots">
+        <item>*********2-Piece Sprout+MraidSanity************</item>
+        <item>IntImaiAll-2p</item>
+        <item>588168846</item>
+        <item>IntHtml5All-2p</item>
+        <item>177422664</item>
+        <item>MraidSanity-2p</item>
+        <item>811516520</item>
+        <item>ImraidSanity-2p</item>
+        <item>465600262</item>
+        <item>ImraidAVSanity-2p</item>
+        <item>480517658</item>
+        <item>IntSproutAll-2p</item>
+        <item>937750108</item>
+        <item>IntSproutMraid-2p</item>
+        <item>688637878</item>
+    </string-array>
+
+    <string-array name="ExpProdSlots">
+        <item>**********Prod***********</item>
+        <item>1431977751489005</item>
+    </string-array>
+
+    <string-array name="ExpPhpSlots">
+        <item>**********AutoClickTest***********</item>
+        <item>**********Visible+No Interaction***********</item>
+        <item>1502000001</item>
+        <item>1502000002</item>
+        <item>1502000003</item>
+        <item>1502000004</item>
+        <item>1502000005</item>
+        <item>1502000006</item>
+        <item>1502000007</item>
+        <item>1502000008</item>
+        <item>1502000009</item>
+        <item>1502000010</item>
+        <item>1502000011</item>
+        <item>1502000012</item>
+        <item>1502000013</item>
+        <item>1502000014</item>
+        <item>1502000015</item>
+        <item>1502000016</item>
+        <item>1502000017</item>
+        <item>1502000020</item>
+        <item>1502000021</item>
+
+        <item>**********No Visible+No Interaction***********</item>
+        <item>1501000001</item>
+        <item>1501000002</item>
+        <item>1501000003</item>
+        <item>1501000004</item>
+        <item>1501000005</item>
+        <item>1501000006</item>
+        <item>1501000007</item>
+        <item>1501000008</item>
+        <item>1501000009</item>
+        <item>1501000010</item>
+        <item>1501000011</item>
+        <item>1501000012</item>
+        <item>1501000013</item>
+        <item>1501000014</item>
+        <item>1501000015</item>
+        <item>1501000016</item>
+        <item>1501000017</item>
+        <item>1501000020</item>
+        <item>1501000021</item>
+        <item>1501000022</item>
+
+        <item>**********Visible+Valid Interaction***********</item>
+        <item>1503010001</item>
+        <item>1503020001</item>
+        <item>1503030001</item>
+        <item>1503040001</item>
+        <item>1503050001</item>
+        <item>1503060001</item>
+        <item>1503070001</item>
+        <item>1503080001</item>
+        <item>1503090001</item>
+        <item>1503100000</item>
+
+        <item>**********Visible+Invalid Interaction***********</item>
+        <item>1502000018</item>
+
+        <item>**********PermissionTest***********</item>
+        <item>1201280001</item>
+        <item>1201430001</item>
+        <item>1201410006</item>
+        <item>1201300001</item>
+        <item>1201260001</item>
+        <item>1201310001</item>
+
+        <item>**********Supports***********</item>
+        <item>1201270001</item>
+        <item>1201270002</item>
+        <item>1201270003</item>
+        <item>1201270004</item>
+        <item>1201270005</item>
+        <item>1201270006</item>
+        <item>1201270007</item>
+        <item>1201270008</item>
+        <item>1201270009</item>
+        <item>1201270010</item>
+        <item>1201270011</item>
+        <item>1201270012</item>
+        <item>1201270013</item>
+
+        <item>**********ExpandCTAs***********</item>
+        <item>1201030001</item>
+        <item>1201280001</item>
+        <item>1201260001</item>
+        <item>1201500001</item>
+        <item>1201330007</item>
+        <item>1201000001</item>
+        <item>1201010001</item>
+        <item>1201020001</item>
+        <item>1201040001</item>
+        <item>1201300001</item>
+        <item>1201320002</item>
+        <item>1201430001</item>
+        <!--<item>1201320003</item>-->
+        <!--<item>1201320014</item>-->
+        <!--<item>1201320001</item>-->
+        <!--<item>1201320002</item>-->
+        <!--<item>1201320003</item>-->
+        <!--<item>1201320004</item>-->
+        <!--<item>1201320005</item>-->
+        <!--<item>1201320006</item>-->
+        <!--<item>1201320007</item>-->
+        <!--<item>1201320008</item>-->
+        <!--<item>1201320009</item>-->
+        <!--<item>1201320010</item>-->
+        <!--<item>1201320011</item>-->
+        <!--<item>1201320012</item>-->
+        <!--<item>1201320013</item>-->
+
+        <item>*********ExpandLifeCycle************</item>
+        <item>1201510002</item>
+        <item>1201510003</item>
+        <item>1201500001</item>
+        <item>1201510001</item>
+        <item>1201510007</item>
+        <item>1201510101</item>
+
+        <item>*********OrientationLock************</item>
+        <item>1201400013</item>
+        <item>1201400014</item>
+
+        <item>1201400043</item>
+        <item>1201400044</item>
+        <item>1201400045</item>
+        <item>1201400046</item>
+        <item>1201400047</item>
+        <item>1201400048</item>
+        <item>1201400049</item>
+        <item>1201400050</item>
+        <item>1201400051</item>
+        <item>1201400052</item>
+        <item>1201400053</item>
+        <item>1201400054</item>
+        <item>1201400056</item>
+        <item>1201400057</item>
+        <item>1201400058</item>
+        <item>1201400059</item>
+        <item>1201400060</item>
+        <item>1201400061</item>
+        <item>1201400062</item>
+        <item>1201400063</item>
+        <item>1201400064</item>
+        <item>1201400065</item>
+        <item>1201400066</item>
+        <item>1201400067</item>
+
+        <item>*********TwoPieceAds************</item>
+        <item>1204320001</item>
+        <item>1204320002</item>
+        <item>1204320003</item>
+        <item>1204320004</item>
+        <item>1204320005</item>
+        <item>1204320006</item>
+        <item>1204320007</item>
+        <item>1204320008</item>
+        <item>1204320009</item>
+        <item>1204320010</item>
+        <item>1204320011</item>
+        <item>1204320012</item>
+        <item>1204320013</item>
+
+        <item>*********IMAI************</item>
+        <item>11030001</item>
+        <item>11030002</item>
+        <item>11030003</item>
+        <item>11030009</item>
+        <item>11030010</item>
+        <item>11030013</item>
+        <item>11030014</item>
+        <item>11030017</item>
+        <item>11030018</item>
+        <item>11030021</item>
+        <item>11030022</item>
+        <item>11030025</item>
+        <item>11030026</item>
+        <item>11020001</item>
+        <item>11020002</item>
+
+        <item>*********AdRegression************</item>
+        <item>13010001</item>
+        <item>13020001</item>
+        <item>13030001</item>
+        <item>13010013</item>
+
+        <item>**********ResizedAds***********</item>
+        <item>1202530101</item>
+        <item>1202530102</item>
+        <item>1202530003</item>
+        <item>1202530004</item>
+        <item>1202530038</item>
+        <item>1202530006</item>
+        <item>1202530007</item>
+        <item>1202530008</item>
+        <item>1202530009</item>
+        <item>1202530010</item>
+        <item>1202530011</item>
+        <item>1202530012</item>
+        <item>1202530013</item>
+        <item>1202530014</item>
+        <item>1202530015</item>
+        <item>1202530016</item>
+        <item>1202530017</item>
+        <item>1202530018</item>
+        <item>1202530019</item>
+        <item>1202530020</item>
+        <item>1202530021</item>
+        <item>1202530022</item>
+        <item>1202530023</item>
+        <item>1202530024</item>
+        <item>1202530025</item>
+        <item>1202530038</item>
+        <item>1202530038</item>
+        <item>1202530038</item>
+        <item>1202530029</item>
+        <item>1202530030</item>
+    </string-array>
+
+    <string-array name="ExpE2ESlots">
+        <item>*********E2E************</item>
+        <item>adpool</item>
+        <item>1427435074321753</item>
+        <item>ifc</item>
+        <item>1427435647492903</item>
+        <item>ads</item>
+        <item>1427232188023</item>
+    </string-array>
+
+    <string-array name="ErrorSlots">
+        <item>**********ErrorCodes***********</item>
+        <item>1000000000</item>
+        <item>2000000000</item>
+        <item>3000000000</item>
+        <item>4000000000</item>
+        <item>5000000000</item>
+        <item>6000000000</item>
+        <item>7000000000</item>
+        <item>8000000000</item>
+        <item>9000000000</item>
+        <item>10000000000</item>
+    </string-array>
+
+    <string-array name="intSlots">
+        <item>intHtmlTest</item>
+        <item>653938120</item>
+        <item>**********AutoClickTest***********</item>
+        <item>**********Visible+No Interaction***********</item>
+        <item>1502000001</item>
+        <item>1502000002</item>
+        <item>1502000003</item>
+        <item>1502000004</item>
+        <item>1502000005</item>
+        <item>1502000006</item>
+        <item>1502000007</item>
+        <item>1502000008</item>
+        <item>1502000009</item>
+        <item>1502000010</item>
+        <item>1502000011</item>
+        <item>1502000012</item>
+        <item>1502000013</item>
+        <item>1502000014</item>
+        <item>1502000015</item>
+        <item>1502000016</item>
+        <item>1502000017</item>
+        <item>1502000020</item>
+        <item>1502000021</item>
+
+        <item>**********No Visible+No Interaction***********</item>
+        <item>1501000001</item>
+        <item>1501000002</item>
+        <item>1501000003</item>
+        <item>1501000004</item>
+        <item>1501000005</item>
+        <item>1501000006</item>
+        <item>1501000007</item>
+        <item>1501000008</item>
+        <item>1501000009</item>
+        <item>1501000010</item>
+        <item>1501000011</item>
+        <item>1501000012</item>
+        <item>1501000013</item>
+        <item>1501000014</item>
+        <item>1501000015</item>
+        <item>1501000016</item>
+        <item>1501000017</item>
+        <item>1501000020</item>
+        <item>1501000021</item>
+        <item>1501000022</item>
+
+        <item>**********Visible+Valid Interaction***********</item>
+        <item>1503010001</item>
+        <item>1503020001</item>
+        <item>1503030001</item>
+        <item>1503040001</item>
+        <item>1503050001</item>
+        <item>1503060001</item>
+        <item>1503070001</item>
+        <item>1503080001</item>
+        <item>1503090001</item>
+        <item>1503100000</item>
+
+        <item>**********Visible+Invalid Interaction***********</item>
+        <item>1502000018</item>
+
+
+        <item>instantPlaySprout</item>
+        <item>463863110</item>
+
+        <item>Multiple</item>
+        <item>13020005</item>
+
+        <item>No-Fill</item>
+        <item>13020008</item>
+
+        <item>**********SaveContent***********</item>
+        <item>1203410006</item>
+        <item>1203410015</item>
+        <item>1203410029</item>
+        <item>1203410030</item>
+        <item>1203410031</item>
+        <item>1203410034</item>
+        <item>1203410004</item>
+
+        <item>LocationAccess</item>
+        <item>108526570</item>
+
+        <item>**********Supports***********</item>
+        <item>1203270001</item>
+        <item>1203270002</item>
+        <item>1203270003</item>
+        <item>1203270004</item>
+        <item>1203270005</item>
+        <item>1203270006</item>
+        <item>12031270007</item>
+        <item>1203270008</item>
+        <item>1203270009</item>
+        <item>1203270010</item>
+        <item>1203270011</item>
+        <item>1203270012</item>
+        <item>1203270013</item>
+
+        <item>1203140017</item>
+        <item>1203140024</item>
+        <item>1203140025</item>
+        <item>1203140026</item>
+        <item>1203140027</item>
+        <item>1203140028</item>
+        <item>1203140029</item>
+        <item>1203140030</item>
+        <item>1203140031</item>
+        <item>1203140032</item>
+        <item>1203140033</item>
+        <item>1203140034</item>
+        <item>1203140035</item>
+        <item>1203140036</item>
+        <item>1203140037</item>
+
+
+        <item>**********Regression***********</item>
+        <item>13010012</item>
+
+        <item>**********IntCTAs***********</item>
+        <item>1203030001</item>
+        <item>1203280001</item>
+        <item>1203260001</item>
+        <item>1203500001</item>
+        <item>1203330007</item>
+        <item>1203000001</item>
+        <item>1203010001</item>
+        <item>1203020001</item>
+        <item>1203040001</item>
+        <item>1203300001</item>
+        <item>1203320002</item>
+        <item>1203430001</item>
+
+        <item>*********IMAI************</item>
+        <item>11030001</item>
+        <item>11030002</item>
+        <item>11030003</item>
+        <item>11030009</item>
+        <item>11030010</item>
+        <item>11030013</item>
+        <item>11030014</item>
+        <item>11030017</item>
+        <item>11030018</item>
+        <item>11030021</item>
+        <item>11030022</item>
+        <item>11030025</item>
+        <item>11030026</item>
+        <item>11020001</item>
+        <item>11020002</item>
+
+        <item>*********OrientationLock************</item>
+        <item>1203400013</item>
+        <item>1203400014</item>
+
+        <item>1203400043</item>
+        <item>1203400044</item>
+        <item>1203400045</item>
+        <item>1203400046</item>
+        <item>1203400047</item>
+        <item>1203400048</item>
+        <item>1203400049</item>
+        <item>1203400050</item>
+        <item>1203400051</item>
+        <item>1203400052</item>
+        <item>1203400053</item>
+        <item>1203400054</item>
+        <item>1203400056</item>
+        <item>1203400057</item>
+        <item>1203400058</item>
+        <item>1203400059</item>
+        <item>1203400060</item>
+        <item>1203400061</item>
+        <item>1203400062</item>
+        <item>1203400063</item>
+        <item>1203400064</item>
+        <item>1203400065</item>
+        <item>1203400066</item>
+        <item>1203400067</item>
+
+        <item>*********Sprout+MraidSanity************</item>
+        <item>IntImaiAll</item>
+        <item>588168846</item>
+        <item>IntHtml5All</item>
+        <item>177422664</item>
+        <item>IntImraidAll</item>
+        <item>184654926</item>
+        <item>IntiMraidAudioVideo</item>
+        <item>753494158</item>
+        <item>IntMraidAll</item>
+        <item>494169682</item>
+        <item>DisableCloseRegion</item>
+        <item>1010432540</item>
+        <item>IFCCrash</item>
+        <item>586154320</item>
+        <item>IntSproutAll</item>
+        <item>937750108</item>
+        <item>IntSproutMraid</item>
+        <item>688637878</item>
+        <item>IntLandscape</item>
+        <item>458479788</item>
+        <item>IntPortrait</item>
+        <item>813265108</item>
+        <item>IntLocation</item>
+        <item>900992064</item>
+        <!--<item>1203330003</item>-->
+        <!--<item>1203540006</item>-->
+
+        <!--<item>ifc</item>-->
+        <!--<item>1427435074323112</item>-->
+        <!--<item>rewardvideo</item>-->
+        <!--<item>1427442825684</item>-->
+        <!--<item>ads</item>-->
+        <!--<item>1429767636332</item>-->
+
+        <!--<item>1000000000</item>-->
+        <!--<item>16010012</item>-->
+        <!--<item>16030001</item>-->
+        <!--<item>16020001</item>-->
+        <!--<item>1425892636944424</item>-->
+
+        <!--<item>1201320001</item>-->
+        <!--<item>1201320002</item>-->
+        <!--<item>1201320003</item>-->
+        <!--<item>1201320004</item>-->
+        <!--<item>1201320005</item>-->
+        <!--<item>1201320006</item>-->
+        <!--<item>1201320007</item>-->
+        <!--<item>1201320008</item>-->
+        <!--<item>1201320009</item>-->
+        <!--<item>1201320010</item>-->
+        <!--<item>1201320011</item>-->
+        <!--<item>1201320012</item>-->
+        <!--<item>1201320013</item>-->
+
+
+    </string-array>
+
+
+    <string-array name="nativeSlots">
+        <item>viewability</item>>
+        <item>13020005</item>
+        <item>13010001</item>
+        <item>13020001</item>
+        <item>13030001</item>
+        <item>13032001</item>
+        <item>13020001</item>
+        <item>13020002</item>
+        <item>13020010</item>
+        <item>13020011</item>
+        <item>1442843749353</item>
+    </string-array>
+
+    <string-array name="MVBAssetStyle">
+        <item>18010001</item>
+        <item>18010002</item>
+        <item>18010003</item>
+        <item>18010004</item>
+        <item>18010005</item>
+        <item>18010006</item>
+        <item>18010007</item>
+        <item>18010008</item>
+        <item>18010009</item>
+        <item>18010010</item>
+        <item>18010011</item>
+        <item>18010012</item>
+        <item>18010013</item>
+        <item>18010014</item>
+        <item>18010015</item>
+        <item>18010016</item>
+        <item>18010017</item>
+        <item>18010018</item>
+        <item>18010019</item>
+        <item>18010020</item>
+        <item>18010021</item>
+        <item>18010022</item>
+        <item>18010023</item>
+        <item>18010024</item>
+        <item>18010025</item>
+        <item>18010026</item>
+        <item>18010027</item>
+        <item>18010028</item>
+    </string-array>
+
+    <string-array name="MVBAssetValue">
+        <item>18020001</item>
+        <item>18020002</item>
+        <item>18020003</item>
+        <item>18020004</item>
+        <item>18020005</item>
+        <item>18020006</item>
+        <item>18020007</item>
+        <item>18020008</item>
+        <item>18020009</item>
+        <item>18020010</item>
+        <item>18020011</item>
+        <item>18020012</item>
+    </string-array>
+
+    <string-array name="MVBVastTag">
+        <item>18030000</item>
+        <item>18030001</item>
+        <item>18030002</item>
+        <item>18030003</item>
+        <item>18030004</item>
+        <item>18030005</item>
+        <item>18030006</item>
+        <item>18030007</item>
+        <item>18030008</item>
+        <item>18030009</item>
+        <item>18030010</item>
+        <item>18030011</item>
+        <item>18030012</item>
+        <item>18030013</item>
+        <item>18030014</item>
+        <item>18030015</item>
+        <item>18030016</item>
+        <item>18030017</item>
+        <item>18030018</item>
+        <item>18030019</item>
+        <item>18030020</item>
+        <item>18030021</item>
+        <item>18030022</item>
+        <item>18030023</item>
+        <item>18030024</item>
+        <item>18030025</item>
+        <item>18030026</item>
+        <item>18030027</item>
+        <item>18030028</item>
+        <item>18030029</item>
+        <item>18030030</item>
+        <item>18030031</item>
+        <item>18030032</item>
+        <item>18030033</item>
+        <item>18030034</item>
+        <item>18030035</item>
+        <item>18030036</item>
+        <item>18030037</item>
+        <item>18030038</item>
+        <item>18030039</item>
+        <item>18030040</item>
+        <item>18030041</item>
+        <item>18030042</item>
+        <item>18030043</item>
+        <item>18030044</item>
+        <item>18030045</item>
+        <item>18030046</item>
+        <item>18030047</item>
+        <item>18030048</item>
+        <item>18030049</item>
+        <item>18030050</item>
+        <item>18030051</item>
+        <item>18030052</item>
+        <item>18030053</item>
+        <item>18030054</item>
+        <item>18030055</item>
+        <item>18030056</item>
+        <item>18030057</item>
+        <item>18030058</item>
+        <item>18030059</item>
+        <item>18030060</item>
+        <item>18030061</item>
+        <item>18030062</item>
+        <item>18030063</item>
+        <item>18030064</item>
+        <item>18030065</item>
+        <item>18030066</item>
+        <item>18030067</item>
+        <item>18030068</item>
+        <item>18030069</item>
+        <item>18030070</item>
+        <item>18030071</item>
+        <item>18030072</item>
+        <item>18030073</item>
+        <item>18030074</item>
+        <item>18030075</item>
+        <item>18030076</item>
+        <item>18030077</item>
+        <item>18030078</item>
+        <item>18030079</item>
+        <item>18030080</item>
+        <item>18030081</item>
+        <item>18030082</item>
+        <item>18030083</item>
+        <item>18030084</item>
+        <item>18030085</item>
+        <item>18030086</item>
+        <item>18030087</item>
+        <item>18030088</item>
+        <item>18030089</item>
+        <item>18030090</item>
+        <item>18030091</item>
+        <item>18030092</item>
+        <item>18030093</item>
+    </string-array>
+
+    <string-array name="MVBWrapperTag">
+        <item>18040000</item>
+        <item>18040001</item>
+        <item>18040002</item>
+        <item>18040003</item>
+        <item>18040004</item>
+        <item>18040005</item>
+        <item>18040006</item>
+        <item>18040007</item>
+        <item>18040008</item>
+        <item>18040009</item>
+        <item>18040010</item>
+        <item>18040054</item>
+        <item>18040011</item>
+        <item>18040012</item>
+        <item>18040013</item>
+        <item>18040014</item>
+        <item>18040015</item>
+        <item>18040016</item>
+        <item>18040017</item>
+        <item>18040018</item>
+        <item>18040019</item>
+        <item>18040020</item>
+        <item>18040021</item>
+        <item>18040022</item>
+        <item>18040023</item>
+        <item>18040024</item>
+        <item>18040025</item>
+        <item>18040026</item>
+        <item>18040027</item>
+        <item>18040028</item>
+        <item>18040029</item>
+        <item>18040030</item>
+        <item>18040031</item>
+        <item>18040032</item>
+        <item>18040033</item>
+        <item>18040034</item>
+        <item>18040035</item>
+        <item>18040036</item>
+        <item>18040037</item>
+        <item>18040038</item>
+        <item>18040039</item>
+        <item>18040040</item>
+        <item>18040041</item>
+        <item>18040042</item>
+        <item>18040043</item>
+        <item>18040044</item>
+        <item>18040045</item>
+        <item>18040046</item>
+        <item>18040047</item>
+        <item>18040048</item>
+        <item>18040049</item>
+        <item>18040050</item>
+        <item>18040051</item>
+        <item>18040052</item>
+        <item>18040053</item>
+        <item>18040054</item>
+        <item>18040055</item>
+
+    </string-array>
+
+    <string-array name="adserverUrls">
+        <item>PlacementServer</item>
+        <item>MatrixServer</item>
+        <item>Matrix2PServer</item>
+        <item>ErrorServer</item>
+        <item>SleepServer</item>
+        <item>ProdServer</item>
+        <item>E2EServer</item>
+        <item>KEGServer</item>
+    </string-array>
+
+    <string name="ad_prompt">Choose an ad type</string>
+
+    <string name="app_name">PickerApp</string>
+
+    <string name="InterstitialAd">Interstitial Ad:</string>
+    <string name="getInterstitial">Get Interstitial Ad</string>
+    <string name="getInstantPlay">Get Instant Play Ad</string>
+    <string name="showInterstitial">Show Interstitial Ad</string>
+    <string name="showInstantPlay">Show Instant Play Ad</string>
+
+    <string name="title_activity_main_menu">MainMenu</string>
+
+    <string name="title_activity_expandable">Expandable</string>
+    <string name="title_activity_expand_menu">ExpandMenu</string>
+
+    <string name="title_activity_expandxml">ExpandXML</string>
+    <string name="title_activity_expandlayout_menu">ExpandLayoutMenu</string>
+
+    <string name="title_activity_interstitial">Interstitial</string>
+    <string name="title_activity_interstitial_menu">InterstitialMenu</string>
+
+    <string name="title_activity_configurable">Configurable</string>
+    <string name="title_activity_configurable_menu">ConfigurableMenu</string>
+
+    <string name="title_activity_twopieces">TwoPieces</string>
+    <string name="title_activity_twopieces_menu">TwoPiecesMenu</string>
+    <string name="menu_settings">Expandable</string>
+
+    <string name="title_activity_native">Native</string>
+    <string name="title_activity_native_menu">NativeMenu</string>
+
+    <string name="Content">getContent from First AppId</string>
+    <string name="Content2">getContent from second AppId</string>
+    <string name="Load1">Load Ad with first appid</string>
+    <string name="Load2">Load Ad with second appid</string>
+    <string name="PublisherContentImage">RenderImage/Impression Beacon for first Appid</string>
+    <string name="ClickBeacon">ClickBeacon for first Appid</string>
+    <string name="Install">Install</string>
+    <string name="PublisherContentImage2">RenderImage/Impression Beacon for Second AppId</string>
+    <string name="ClickBeacon2">ClickBeacon for second AppId</string>
+    <string name="LoadCustom">Load Ad CustomNative</string>
+    <string name="PublisherContentImageCustom">RenderImage/Impression Beacon Custom</string>
+    <string name="ClickBeaconCustom">ClickBeacon Custom</string>
+    <string name="ContentCustom">getContent Custom</string>
+    <string name="PublisherContentImageCustomUrl">RenderImage/Impression Beacon Custom with Url
+    </string>
+    <string name="ClickBeaconCustomUrl">ClickBeacon Custom with Url</string>
+    <string name="getCoarsePermission">Coarse Permission</string>
+    <string name="getFinePermission">Fine Permission</string>
+
+</resources>

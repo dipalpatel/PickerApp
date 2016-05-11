@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp" android:layout_marginTop="10dip" android:text="Server:" />
+
+    <Spinner android:id="@+id/spinner1" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dip" />
+
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp" android:layout_marginTop="10dip" android:text="SlotId:" />
+
+    <Spinner android:id="@+id/spinner2" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dip" />
+
+    <Button android:id="@+id/btnSubmit" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="Submit" />
+
+</LinearLayout>

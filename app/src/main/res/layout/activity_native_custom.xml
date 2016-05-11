@@ -1,0 +1,39 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical"
+        tools:context="com.test.kuluk.Native">
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="hello_world" />
+
+        <ListView android:id="@+id/listImage" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ListView>
+
+        <LinearLayout android:id="@+id/testImage" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:orientation="vertical" />
+
+        <Button android:id="@+id/LoadCustom" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/LoadCustom" />
+
+        <Button android:id="@+id/ContentCustom" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/ContentCustom" />
+
+        <Button android:id="@+id/PubContentCustom" android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/PublisherContentImageCustom" />
+
+        <Button android:id="@+id/PubContentCustomUrl" android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/PublisherContentImageCustomUrl" />
+
+        <Button android:id="@+id/ClickCustom" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/ClickBeaconCustom" />
+
+        <Button android:id="@+id/ClickCustomUrl" android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:text="@string/ClickBeaconCustomUrl" />
+
+    </LinearLayout>
+</ScrollView>

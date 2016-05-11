@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ParentLayout" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+
+    <!--<com.inmobi.ads.InMobiBanner xmlns:ad="http://schemas.android.com/apk/res/android"-->
+    <!--android:id="@+id/bannerView"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--ad:placementId="1244"-->
+    <!--ad:refreshInteval="24"-->
+    <!--/>-->
+
+    <LinearLayout android:id="@+id/listNews" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:orientation="vertical" />
+
+    <!--<EditText-->
+    <!--android:id="@+id/editText1"-->
+    <!--android:layout_width="400dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:background="#CCCCCC"-->
+    <!--android:ems="10"-->
+    <!--android:inputType="textPersonName" >-->
+    <!--<requestFocus />-->
+    <!--</EditText>-->
+
+    <Button android:id="@+id/LoadBanner" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadBanner"
+        android:text="Load Banner Ad" />
+
+    <Button android:id="@+id/LoadBanner1" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadBanner1"
+        android:text="Load Banner Ad1" />
+
+    <Button android:id="@+id/LoadInt" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadInt"
+        android:text="Load Interstitial Ad" />
+
+    <Button android:id="@+id/LoadInt1" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadInt1"
+        android:text="Load Interstitial Ad1" />
+
+    <Button android:id="@+id/LoadNative" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadNative"
+        android:text="Load Native Ad" />
+
+    <Button android:id="@+id/LoadNative1" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:onClick="loadNative1"
+        android:text="Load Native Ad1" />
+
+</LinearLayout>
+
